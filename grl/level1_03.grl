@@ -1,0 +1,30 @@
+# GiRL level file
+
+# *************  objects:  *************
+
+<objects>
+<object>
+<name>object1</name>
+<texture>C:\Users\gamel\Downloads\wall.jpg</texture>
+<numVertices>6</numVertices>
+<vertices>-0.5 0.5 0.5 0 0
+0.5 0.5 0.5 1.0 0
+0.5 -0.5 0.5 1.0 1.0
+-0.5 0.5 0.5 0 0
+0.5 -0.5 0.5 1.0 1.0
+-0.5 -0.5 0.5 0 1.0
+</vertices>
+</object>
+<object>
+<name>object1-copy7</name>
+<texture>C:\Users\gamel\Downloads\wall.jpg</texture>
+<numVertices>6</numVertices>
+<vertices>-750.028564 -599.992493 0.000000 -0.000001 -0.000001
+-550.010254 -599.992493 0.000000 1.000000 -0.000001
+-550.010254 -800.002197 0.000000 1.000000 1.000000
+-750.028564 -599.992493 0.000000 -0.000001 -0.000001
+-550.010254 -800.002197 0.000000 1.000000 1.000000
+-750.028564 -800.002197 0.000000 -0.000001 1.000000
+</vertices>
+</object>
+</objects>

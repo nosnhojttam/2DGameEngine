@@ -1,0 +1,132 @@
+<objects>
+<object>
+<name>object1</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\GameEngineFramework\images\new_bg.png</texture>
+<numVertices>6</numVertices>
+<vertices>
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 1600.000000 0.000000 1.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 -210.000000 0.000000 -0.000000 1.000000
+</vertices>
+</object>
+<object>
+<name>object2</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\GameEngineFramework\images\platform.png</texture>
+<numVertices>6</numVertices>
+<vertices>
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 1600.000000 0.000000 1.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 -210.000000 0.000000 -0.000000 1.000000
+</vertices>
+</object>
+<object>
+<name>object2-copy1</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\GameEngineFramework\images\platform.png</texture>
+<numVertices>6</numVertices>
+<vertices>
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 1600.000000 0.000000 1.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 -210.000000 0.000000 -0.000000 1.000000
+</vertices>
+</object>
+<object>
+<name>object2-copy1-copy1</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\GameEngineFramework\images\platform.png</texture>
+<numVertices>6</numVertices>
+<vertices>
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 1600.000000 0.000000 1.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 -210.000000 0.000000 -0.000000 1.000000
+</vertices>
+</object>
+<object>
+<name>object2-copy1-copy1-copy1</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\GameEngineFramework\images\platform.png</texture>
+<numVertices>6</numVertices>
+<vertices>
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 1600.000000 0.000000 1.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 -210.000000 0.000000 -0.000000 1.000000
+</vertices>
+</object>
+<object>
+<name>object2-copy1-copy1-copy1-copy1</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\GameEngineFramework\images\platform.png</texture>
+<numVertices>6</numVertices>
+<vertices>
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 1600.000000 0.000000 1.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 -210.000000 0.000000 -0.000000 1.000000
+</vertices>
+</object>
+<object>
+<name>object2-copy1-copy1-copy1-copy1-copy1</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\GameEngineFramework\images\platform.png</texture>
+<numVertices>6</numVertices>
+<vertices>
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 1600.000000 0.000000 1.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 -210.000000 0.000000 -0.000000 1.000000
+</vertices>
+</object>
+<object>
+<name>object2-copy1-copy1-copy1-copy1-copy1-copy1</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\GameEngineFramework\images\platform.png</texture>
+<numVertices>6</numVertices>
+<vertices>
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 1600.000000 0.000000 1.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 -210.000000 0.000000 -0.000000 1.000000
+</vertices>
+</object>
+<object>
+<name>object2-copy1-copy1-copy1-copy1-copy1-copy1-copy1</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\GameEngineFramework\images\platform.png</texture>
+<numVertices>6</numVertices>
+<vertices>
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 1600.000000 0.000000 1.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 -210.000000 0.000000 -0.000000 1.000000
+</vertices>
+</object>
+<object>
+<name>object2-copy1-copy1-copy1-copy1-copy1-copy1-copy1-copy1</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\GameEngineFramework\images\platform.png</texture>
+<numVertices>6</numVertices>
+<vertices>
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 1600.000000 0.000000 1.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 1600.000000 0.000000 -0.000000 -0.000000
+3820.000000 -210.000000 0.000000 1.000000 1.000000
+-3010.000000 -210.000000 0.000000 -0.000000 1.000000
+</vertices>
+</object>
+</objects>

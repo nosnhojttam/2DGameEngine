@@ -1,0 +1,42 @@
+# GiRL level file
+
+# *************  objects:  *************
+
+<objects>
+<object>
+<name>BG</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\images\BG.jpg</texture>
+<numVertices>6</numVertices>
+<vertices>-90.000549 70.000328 0.000000 -0.000000 -0.000000
+70.000145 70.000328 0.000000 1.000000 -0.000000
+70.000145 -20.000149 0.000000 1.000000 1.000000
+-90.000549 70.000328 0.000000 -0.000000 -0.000000
+70.000145 -20.000149 0.000000 1.000000 1.000000
+-90.000549 -20.000149 0.000000 -0.000000 1.000000
+</vertices>
+</object>
+<object>
+<name>object1</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\images\grass.png</texture>
+<numVertices>6</numVertices>
+<vertices>70.022568 -20.000423 0 1.000000 1.000000
+-89.960297 -20.000406 0 0.000000 1.000000
+-89.960274 -10.000199 0 0 0
+70.022568 -20.000423 0 1 1
+-89.960274 -10.000199 0 0 0
+70.022469 -10.000209 0 1 0
+</vertices>
+</object>
+<object>
+<name>grass2</name>
+<texture>C:\Users\gamel\Documents\Matt\CAPSTONE\NEw\Johnson_HW3\images\grass.png</texture>
+<numVertices>6</numVertices>
+<vertices>-90.000069 0.000000 0 -0.000001 0.000000
+-50.000034 0.000000 0 1.000000 0.000000
+-50.000034 -10.000000 0 1.000000 1.000000
+-90.000069 0.000000 0 0.000001 0.000000
+-50.000034 -10.000000 0 1.000000 1.000000
+-90.000069 -10.000000 0 -0.000001 1.000000
+</vertices>
+</object>
+</objects>

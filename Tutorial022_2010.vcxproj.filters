@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="pugixml\pugixml.cpp">
+      <Filter>Source Files\GRLEngine\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\player.cpp">
+      <Filter>Source Files\GRLEngine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\collider.cpp">
+      <Filter>Source Files\GRLEngine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gObject.cpp">
+      <Filter>Source Files\GRLEngine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\level.cpp">
+      <Filter>Source Files\GRLEngine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\texture.cpp">
+      <Filter>Source Files\GRLEngine\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\grlLoader.cpp">
+      <Filter>Source Files\GRLEngine\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="src\source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\animation.cpp">
+      <Filter>Source Files\GRLEngine\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\render_to_texture.cpp">
+      <Filter>Source Files\GRLEngine\Graphics</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="lecture5.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shader.fx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{30324dcc-588e-4122-8731-98e03aa4f7f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GRLEngine">
+      <UniqueIdentifier>{4344ec3f-90de-4921-9f51-aa14250d6801}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GRLEngine\Core">
+      <UniqueIdentifier>{6576fbcf-c73b-437e-b34b-3d5ea7bd0d37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{b519b257-3248-4033-b3fc-cb77ce237808}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GRLEngine\Graphics">
+      <UniqueIdentifier>{700263bc-b42c-4501-b1f4-0e6db0fbbdf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GRLEngine\IO">
+      <UniqueIdentifier>{287000bb-d871-495e-b5fc-e0be4a6a04fc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pugixml\pugiconfig.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pugixml\pugixml.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\collider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\constantbuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\gObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\grlLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\simplevertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\stopwatchmicro.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\controller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\animation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\sound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\render_to_texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="animate_shader.fx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="directx.ico" />
+  </ItemGroup>
+</Project>
